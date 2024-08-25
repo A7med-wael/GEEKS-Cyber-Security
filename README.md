@@ -24,18 +24,18 @@
 * ## Security+
   - [ ] [Tutorial](https://youtube.com/playlist?list=PLky4bd7_03m8o1NB0j96OsxZs0KcKlgMO&si=qMOXyNgflNo0pm-y)
 * ## Web Pentest
-  >[!NOTE]
-  > **Ebrahem Hegazy Course**
+>[!NOTE]
+> **Ebrahem Hegazy Course**
   - [ ] [Tutorial](https://youtube.com/playlist?list=PLv7cogHXoVhXvHPzIl1dWtBiYUAL8baHj&si=_LlXK8cEJ6PonDHr)
 * ## eJPT
   - [ ] [Tutorial](link.com)
 * ## eWPT
-  >[!NOTE]
-  > **Paid Course**
+>[!NOTE]
+> **Paid Course**
   - [ ] [Tutorial]()
 * ## eWPTX
-  >[!NOTE]
-  > **Paid Course**
+>[!NOTE]
+> **Paid Course**
   - [ ] [Tutorial]()
 
   
