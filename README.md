@@ -20,5 +20,5 @@
   - ### Network+
     - [ ] [Tutorial]([https://google.com](https://youtube.com/playlist?list=PLH-n8YK76vIiuIZoWvHL7AvtrDV7hR3He&si=uaSqz0zKb5p6yvXa))
   - ### CCNA
-    - [ ] [Tutorial "Optional"](https://google.com)
-  * ## Security+
+    - [ ] [Tutorial `**Optional**` ](https://google.com)
+* ## Security+
