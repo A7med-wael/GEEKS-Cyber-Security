@@ -5,20 +5,20 @@
   - ### JS
     - [ ] [1MO-Tutorial](https://youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&si=Gfbhn2k2bbG-cedb)
 * ## Back-end
-  - PHP
-    - [ ] [test](https://google.com)
-  - MySQL
-    - [ ] [test](https://google.com)
-  - Python
-    - [ ] [test (Optional)] (https://google.com)
+  - ### PHP
+    - [ ] [Tutorial](https://google.com)
+  - ### MySQL
+    - [ ] [Tutorial](https://google.com)
+  - ### Python
+    - [ ] [Tutorial "Optional"] (https://google.com)
 * ## OS
-  - Linux
-    - [ ] [test](https://google.com)
-  - Windows
-    - [ ] [test](https://google.com)
+  - ### Linux
+    - [ ] [Tutorial](https://google.com)
+  - ### Windows
+    - [ ] [Tutorial](https://google.com)
 * ## Network
-  - Network**+**
-    - [ ] [test](https://google.com)
-  - CCNA
-    - [ ] [test(Optional)](https://google.com)
-  * ## Security**+**
+  - ### Network+
+    - [ ] [Tutorial]([https://google.com](https://youtube.com/playlist?list=PLH-n8YK76vIiuIZoWvHL7AvtrDV7hR3He&si=uaSqz0zKb5p6yvXa))
+  - ### CCNA
+    - [ ] [Tutorial "Optional"](https://google.com)
+  * ## Security+
